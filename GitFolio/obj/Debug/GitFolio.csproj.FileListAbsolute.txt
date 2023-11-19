@@ -1,0 +1,14 @@
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\GitFolio.exe.config
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\GitFolio.exe
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\GitFolio.pdb
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.csproj.AssemblyReference.cache
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.Form1.resources
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.Properties.Resources.resources
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.csproj.GenerateResource.cache
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.csproj.CoreCompileInputs.cache
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.exe
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.pdb
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\Guna.UI2.dll
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aflax\source\repos\GitFolio\GitFolio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aflax\source\repos\GitFolio\GitFolio\obj\Debug\GitFolio.csproj.CopyComplete
