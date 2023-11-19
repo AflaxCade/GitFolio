@@ -43,6 +43,8 @@ git clone https://github.com/AflaxCade/gitfolio.git
 ## Screenshots
 ![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/Microsoft.png?raw=true)
 
+![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/bradtraversy.png?raw=true)
+
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
