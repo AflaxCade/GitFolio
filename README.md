@@ -27,6 +27,7 @@ Gitfolio is a C# application that retrieves user information and repositories fr
 1. Clone the repository:
 ```bash
 git clone https://github.com/AflaxCade/gitfolio.git
+```
 2. Open the solution in Visual Studio 2022.
 3. Ensure you have the necessary prerequisites installed.
 4. Build and run the application.
