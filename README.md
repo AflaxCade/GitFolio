@@ -41,7 +41,7 @@ git clone https://github.com/AflaxCade/gitfolio.git
 6. The user's repositories will be listed in a separate list box.
 
 ## Screenshots
-Include screenshots or GIFs demonstrating the application's functionality if possible.
+![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/Microsoft.png?raw=true)
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
