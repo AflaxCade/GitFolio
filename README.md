@@ -41,6 +41,11 @@ git clone https://github.com/AflaxCade/gitfolio.git
 6. The user's repositories will be listed in a separate list box.
 
 ## Screenshots
+
+![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/App.png?raw=true)
+
+![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/Mine.png?raw=true)
+
 ![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/Microsoft.png?raw=true)
 
 ![App Screenshot](https://github.com/AflaxCade/GitFolio/blob/main/bradtraversy.png?raw=true)
