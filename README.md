@@ -32,3 +32,19 @@ git clone https://github.com/AflaxCade/gitfolio.git
 3. Ensure you have the necessary prerequisites installed.
 4. Build and run the application.
 
+## Usage
+1. Launch the application.
+2. Enter a GitHub username in the provided text field.
+3. Click the "Search" button to retrieve the user's information and repositories.
+4. If the internet connection is not available, an error message will be displayed.
+5. If the user exists, their information will be displayed in the UI, including their profile picture, username, name, bio, company, followers count, following count, location, email, Twitter username, blog, repositories count, creation date, and last update date.
+6. The user's repositories will be listed in a separate list box.
+
+## Screenshots
+Include screenshots or GIFs demonstrating the application's functionality if possible.
+
+## Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
